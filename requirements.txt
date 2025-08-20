@@ -1,0 +1,16 @@
+# Core
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+wordcloud  # optional, for scam keyword visualization
+
+# Machine Learning & NLP
+scikit-learn
+nltk
+textblob   # quick sentiment/keyword analysis (optional)
+
+# Kaggle dataset access
+kagglehub
